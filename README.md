@@ -1,11 +1,11 @@
 <div align="center">
   <h1>discord-buttons</h1>
   <p>
-    <a href="https://www.npmjs.com/package/discord-buttons"><img src="https://img.shields.io/npm/v/discord-buttons?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/discord-buttons"><img src="https://img.shields.io/npm/dt/discord-buttons?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/discord-buttons-fixed"><img src="https://img.shields.io/npm/v/discord-buttons-fixed?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/discord-buttons-fixed"><img src="https://img.shields.io/npm/dt/discord-buttons-fixed?maxAge=3600" alt="NPM downloads" /></a>
   </p>
   <p>
-    <a href="https://www.npmjs.com/package/discord-buttons"><img src="https://nodei.co/npm/discord-buttons.png?downloads=true&stars=true" alt="NPM Banner"></a>
+    <a href="https://www.npmjs.com/package/discord-buttons-fixed"><img src="https://nodei.co/npm/discord-buttons-fixed.png?downloads=true&stars=true" alt="NPM Banner"></a>
   </p>
 </div>
 <div align="center">
@@ -15,19 +15,19 @@
 
 ## 📂 | Installation
 ```sh
-npm i discord-buttons
+npm i discord-buttons-fixed
 ```
 
 ## 📜 | Setup
 ```js
 const discord = require('discord.js'); //Define the discord.js module
 const client = new discord.Client(); //Creating discord.js client (constructor)
-const disbut = require('discord-buttons');
+const disbut = require('discord-buttons-fixed');
 disbut(client);
 ```
 
 ## ✍ | Examples
-All of our Examples and Button Styles are in [examples.md]([http://](https://github.com/AngeloCore/discord-buttons/blob/main/examples.md))
+All of our Examples and Button Styles are in [examples.md]([http://](https://github.com/whoisbaby/discord-buttons-fixed/blob/main/examples.md))
 Also you can check our [Documentation](https://discord-buttons.js.org), if you have any other problems/questions, you can join our [Support Server!](https://discord.gg/5JtyYqW)
 
 ## 👥 | Contact
